@@ -11,27 +11,27 @@ Write a program that:
 
 ### Example 1:
 
-Input: `"()[]{}"`
-Output: `true`
-Explanation: Opened/Closed in correct order.
+- Input: `"()[]{}"`
+- Output: `true`
+- Explanation: Opened/Closed in correct order.
 
 ### Example 2:
 
-Input: `"([)]"`
-Output: `false`
-Explanation: Incorrect order. Must close bracket before closing parenteses.
+- Input: `"([)]"`
+- Output: `false`
+- Explanation: Incorrect order. Must close bracket before closing parenteses.
 
 ### Example 3:
 
-Input: `"(]"`
-Output: `false`
-Explanation: Left parenteses is not closed. Right bracket is not opened.
+- Input: `"(]"`
+- Output: `false`
+- Explanation: Left parenteses is not closed. Right bracket is not opened.
 
 ### Example 4:
 
-Input: `"{[]}"`
-Output: `true`
-Explanation: Opened/Closed in correct order
+- Input: `"{[]}"`
+- Output: `true`
+- Explanation: Opened/Closed in correct order
 
 ## Constraints:
 

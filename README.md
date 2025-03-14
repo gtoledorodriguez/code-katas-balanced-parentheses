@@ -35,4 +35,4 @@ Explanation: Opened/Closed in correct order
 
 ## Constraints:
 
-- input is a string consisting only the characters `(`, `)`, `{`, `}`, `[` and `]`.
+- input is a string consisting only the characters `(`, `)`, `{`, `}`, `[` or `]`.
